@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="nazwa">Tic-Tac-Toe</string>
+    <string name="versus_player">Versus Player</string>
+    <string name="cross">Cross</string>
+    <string name="circle">Circle</string>
+    <string name="won">won</string>
+    <string name="reset">New game!</string>
+    <string name="versus_computer">Versus Computer</string>
+    <string name="move">Move:</string>
+    <string name="draw">Draw!</string>
+    <string name="place">"Game at: "</string>
+    <string name="place_not_found">Could not find address</string>
+    <string name="save">Save</string>
+    <string name="save_question">Do you want to save?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="games_list">Games list</string>
+    <string name="date">"Date: "</string>
+    <string name="game_time">"Game time: "</string>
+    <string name="winner">"Winner: "</string>
+</resources>

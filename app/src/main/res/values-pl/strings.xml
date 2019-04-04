@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="nazwa">Kółko i krzyżyk</string>
+    <string name="versus_player">Kontra Gracz</string>
+    <string name="cross">Krzyżyk</string>
+    <string name="circle">Kółko</string>
+    <string name="won">wygrał</string>
+    <string name="reset">Nowa gra!</string>
+    <string name="versus_computer">Kontra Komputer</string>
+    <string name="move">Ruch:</string>
+    <string name="draw">Remis!</string>
+    <string name="place">"Gra w: "</string>
+    <string name="place_not_found">Nie można odnaleźć adresu</string>
+    <string name="save">Zapis</string>
+    <string name="save_question">Czy zapisać gre?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="games_list">Lista gier</string>
+    <string name="date">"Data: "</string>
+    <string name="game_time">"Czas gry: "</string>
+    <string name="winner">"Zwycięzca: "</string>
+</resources>
